@@ -2,8 +2,8 @@ package sec04;
 
 public class print01 {
 	public static void main(String[] args) {
-		String myName = "홍길동";
-		int myAge = 20;
+		String myName = "이예은";
+		int myAge = 24;
 		
 		System.out.println("이름 : " + myName);
 		System.out.println("나이 : " + myAge);
